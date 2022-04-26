@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_icon">
+    <sys_sg_icon action="INSERT_OR_UPDATE">
+        <icon>{"Shape":"Circle","FontName":"now-mobile-icons","Value":"e935","FontColor":"#ff8c3e","BackgroundColor":"#ff8c3e","Name":"icon-Cart"}</icon>
+        <name>icon-Cart</name>
+        <sys_class_name>sys_sg_icon</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-26 07:11:51</sys_created_on>
+        <sys_id>eea5f51e97c3411035edf3ffe153afb7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>icon-Cart</sys_name>
+        <sys_package display_value="Shopping List" source="x_771718_shopping">c72131d297c3411035edf3ffe153afcf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shopping List">c72131d297c3411035edf3ffe153afcf</sys_scope>
+        <sys_update_name>sys_sg_icon_eea5f51e97c3411035edf3ffe153afb7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-26 07:11:51</sys_updated_on>
+        <type>font</type>
+    </sys_sg_icon>
+</record_update>

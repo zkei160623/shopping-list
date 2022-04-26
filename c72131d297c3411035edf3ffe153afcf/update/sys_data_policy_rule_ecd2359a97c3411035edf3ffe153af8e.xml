@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_data_policy_rule">
+    <sys_data_policy_rule action="INSERT_OR_UPDATE">
+        <disabled>ignore</disabled>
+        <field>store_name</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_data_policy_rule</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-26 06:59:25</sys_created_on>
+        <sys_data_policy display_value="Sets the Store name field to mandatory">e4d2359a97c3411035edf3ffe153af8b</sys_data_policy>
+        <sys_id>ecd2359a97c3411035edf3ffe153af8e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>store_name</sys_name>
+        <sys_package display_value="Shopping List" source="x_771718_shopping">c72131d297c3411035edf3ffe153afcf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shopping List">c72131d297c3411035edf3ffe153afcf</sys_scope>
+        <sys_update_name>sys_data_policy_rule_ecd2359a97c3411035edf3ffe153af8e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-26 06:59:25</sys_updated_on>
+        <table>x_771718_shopping_store</table>
+    </sys_data_policy_rule>
+</record_update>
